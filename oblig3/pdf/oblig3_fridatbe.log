@@ -1,0 +1,489 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.21)  7 MAR 2023 10:32
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/frida/OneDrive/Dokumenter/Egendefinerte Office-maler/robotikk/IN1080/oblig3/pdf/oblig3_fridatbe.tex"
+(c:/Users/frida/OneDrive/Dokumenter/Egendefinerte Office-maler/robotikk/IN1080/oblig3/pdf/oblig3_fridatbe.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28> (c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(c:/texlive/2022/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (c:/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/10/04 3.81 The Babel package
+\babel@savecnt=\count189
+\U@D=\dimen139
+\l@unhyphenated=\language87
+ (c:/texlive/2022/texmf-dist/tex/generic/babel/xebabel.def (c:/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read2
+\bbl@dirlevel=\count190
+ (c:/texlive/2022/texmf-dist/tex/generic/babel-norsk/norsk.ldf
+Language: norsk 2012/08/06 v2.0i Norsk support from the babel system
+Package babel Info: Making " an active character on input line 113.
+)) (c:/texlive/2022/texmf-dist/tex/generic/babel/locale/no/babel-norsk.tex
+Package babel Info: Importing font and identification data for norsk
+(babel)             from babel-no.ini. Reported on input line 11.
+) (c:/texlive/2022/texmf-dist/tex/latex/isodate/isodate.sty
+Package: isodate 2010/01/03 v2.30 Print dates with different formats (HH)
+ (c:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count191
+) (c:/texlive/2022/texmf-dist/tex/latex/isodate/norsk.idf
+File: norsk.idf 2010/01/03 v2.30 Language definitions for isodate package (HH)
+
+Define commands for Norwegian date format
+)
+\c@iso@tmpmonth=\count192
+\c@iso@yeartwo=\count193
+\c@iso@slash=\count194
+\c@iso@minus=\count195
+\c@iso@dot=\count196
+\c@iso@@slash=\count197
+\c@iso@@minus=\count198
+\c@iso@@dot=\count199
+) (c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
+ (c:/texlive/2022/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) (c:/texlive/2022/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+ (c:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2022/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (c:/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count266
+)) (c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (c:/texlive/2022/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count267
+\lst@gtempboxa=\box51
+\lst@token=\toks17
+\lst@length=\count268
+\lst@currlwidth=\dimen140
+\lst@column=\count269
+\lst@pos=\count270
+\lst@lostspace=\dimen141
+\lst@width=\dimen142
+\lst@newlines=\count271
+\lst@lineno=\count272
+\lst@maxwidth=\dimen143
+ (c:/texlive/2022/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count273
+\lst@skipnumbers=\count274
+\lst@framebox=\box52
+) (c:/texlive/2022/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (c:/texlive/2022/texmf-dist/tex/latex/gensymb/gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+) (c:/texlive/2022/texmf-dist/tex/latex/eulervm/eulervm.sty
+Package: eulervm 2005/01/11 v4.0 (WaS)
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+\stockwidth=\dimen144
+\stockheight=\dimen145
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (c:/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (c:/texlive/2022/texmf-dist/tex/latex/a4wide/a4wide.sty
+Package: a4wide 1994/08/30
+ (c:/texlive/2022/texmf-dist/tex/latex/ntgclass/a4.sty
+Package: a4 2020/02/18 v1.2g A4 based page layout
+)) (c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count275
+\Gm@cntv=\count276
+\c@Gm@tempcnt=\count277
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks18
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+)
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+) (c:/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen156
+\ttl@minus=\dimen157
+\ttl@toksa=\toks19
+\titlewidth=\dimen158
+\titlewidthlast=\dimen159
+\titlewidthfirst=\dimen160
+) (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-09-28 L3 backend support: XeTeX
+\g__graphics_track_int=\count278
+\l__pdf_internal_box=\box54
+\g__pdf_backend_object_int=\count279
+\g__pdf_backend_annotation_int=\count280
+\g__pdf_backend_link_int=\count281
+) (./oblig3_fridatbe.aux)
+\openout1 = `oblig3_fridatbe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 31.
+ (c:/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+isodate: babel.sty has been loaded
+\c@lstlisting=\count282
+LaTeX Info: Redefining \celsius on input line 31.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 31.
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 31.
+Package gensymb Info: Using \upOmega for \ohm on input line 31.
+
+Package gensymb Warning: Not defining \micro.
+
+\big@size=\dimen161
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(56.9055pt, 686.7347pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=686.7347pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=54.2025pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+zeur on input line 32.
+(c:/texlive/2022/texmf-dist/tex/latex/eulervm/uzeur.fd
+File: uzeur.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Font shape `U/zeur/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 32.
+LaTeX Font Info:    Font shape `U/zeur/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 32.
+LaTeX Font Info:    Font shape `U/zeur/m/n' will be
+(Font)              scaled to size 6.64998pt on input line 32.
+LaTeX Font Info:    Trying to load font information for U+zeus on input line 32.
+ (c:/texlive/2022/texmf-dist/tex/latex/eulervm/uzeus.fd
+File: uzeus.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Font shape `U/zeus/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 32.
+LaTeX Font Info:    Font shape `U/zeus/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 32.
+LaTeX Font Info:    Font shape `U/zeus/m/n' will be
+(Font)              scaled to size 6.64998pt on input line 32.
+LaTeX Font Info:    Trying to load font information for U+zeuex on input line 32.
+ (c:/texlive/2022/texmf-dist/tex/latex/eulervm/uzeuex.fd
+File: uzeuex.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Font shape `U/zeuex/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 32.
+LaTeX Font Info:    Font shape `U/zeuex/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 32.
+LaTeX Font Info:    Font shape `U/zeuex/m/n' will be
+(Font)              scaled to size 6.64998pt on input line 32.
+ [1
+
+]
+File: opg1.jpg Graphic file (type bmp)
+<opg1.jpg>
+LaTeX Font Info:    Font shape `U/zeur/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 41.
+LaTeX Font Info:    Font shape `U/zeur/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 41.
+LaTeX Font Info:    Font shape `U/zeur/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 41.
+LaTeX Font Info:    Font shape `U/zeus/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 41.
+LaTeX Font Info:    Font shape `U/zeus/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 41.
+LaTeX Font Info:    Font shape `U/zeus/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 41.
+LaTeX Font Info:    Font shape `U/zeuex/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 41.
+LaTeX Font Info:    Font shape `U/zeuex/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 41.
+LaTeX Font Info:    Font shape `U/zeuex/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 41.
+
+Missing character: There is no ø ("F8) in font zeurm7!
+Missing character: There is no ø ("F8) in font zeurm7!
+Missing character: There is no ø ("F8) in font zeurm7!
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--52
+
+ []
+
+[2]
+File: opg2.jpg Graphic file (type bmp)
+<opg2.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--90
+
+ []
+
+[3]
+File: opg3.jpg Graphic file (type bmp)
+<opg3.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--116
+
+ []
+
+[4]
+File: screen.png Graphic file (type bmp)
+<screen.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--125
+
+ []
+
+
+Overfull \hbox (14.91359pt too wide) in paragraph at lines 121--125
+\T1/lmr/m/n/12 Grensefrekvensen (ved -3dB): $\U/zeur/m/n/12 f \U/zeus/m/n/12 ½ [] ½ [] ½ [] ½
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
+
+ []
+
+[5] (./oblig3_fridatbe.aux) ) 
+Here is how much of TeX's memory you used:
+ 6233 strings out of 475744
+ 99200 string characters out of 5802617
+ 462124 words of memory out of 5000000
+ 27326 multiletter control sequences out of 15000+600000
+ 501799 words of font info for 56 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 55i,6n,62p,1295b,261s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on oblig3_fridatbe.xdv (5 pages, 6752 bytes).
