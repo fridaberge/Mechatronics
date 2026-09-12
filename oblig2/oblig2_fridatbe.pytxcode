@@ -1,0 +1,41 @@
+=>PYTHONTEX#py#default#defaultverb#0#verbatim#####39#
+            from matplotlib import pyplot as plt
+            import numpy as np
+
+            V = np.arange(1, 10, 0.1)
+            plt.xticks(np.arange(min(V), max(V)+1, 1))
+            I = V/100 #100 er resistatnsen
+            plt.title("Strømmen ved 100 Ohm resistans")
+            plt.xlabel("Spenning(V)")
+            # plt.xscale()
+            plt.ylabel("Strøm (A)")
+            plt.plot(V,I, label='I (strøm)')
+            plt.legend()
+            plt.grid()
+            # plt.show()
+            plt.savefig("opg1.png");
+=>PYTHONTEX:SETTINGS#
+version=0.18
+outputdir=pythontex-files-oblig2_fridatbe
+workingdir=.
+workingdirset=false
+gobble=none
+rerun=default
+hashdependencies=default
+makestderr=false
+stderrfilename=full
+keeptemps=none
+pyfuture=default
+pyconfuture=none
+pygments=true
+pygglobal=:GLOBAL||
+fvextfile=-1
+pyconbanner=none
+pyconfilename=stdin
+depythontex=false
+pygfamily=py|python3|
+pygfamily=pycon|pycon|
+pygfamily=sympy|python3|
+pygfamily=sympycon|pycon|
+pygfamily=pylab|python3|
+pygfamily=pylabcon|pycon|

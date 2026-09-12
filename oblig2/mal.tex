@@ -1,0 +1,140 @@
+
+\documentclass[12pt,norsk,a4paper]{article}
+\usepackage[norsk]{babel}
+\usepackage[norsk]{isodate}
+\usepackage[T1]{fontenc}
+\usepackage{parskip}
+\usepackage{url}
+\author{fridatbe}
+\title{IN1080 --- Obligatorisk oppgave 2} % erstatt N
+\date{\today}
+\usepackage[small,euler-digits]{eulervm}
+\usepackage{color}|
+% \usepackage{minted}
+\usepackage{xcolor} % to access the named colour LightGray
+\definecolor{LightGray}{gray}{0.9}
+\usepackage{a4wide}
+\usepackage[top=2cm]{geometry}
+
+% 6. Figurer og bilder
+
+% 6a. For å bryte tekst rundt en figur
+%\usepackage{wrapfig}
+
+% 6b. For bilder - med denne pakken kan du legge inn bilder og
+% illustrasjoner slik:
+%                  \includegraphics[width=.5\textwidth]{bilde.pdf}
+\usepackage{graphicx}
+\graphicspath{ {./fig/} }
+
+% 7. For grafer og slikt
+%\usepackage{tikz}
+%\usetikzlibrary{trees}
+% Det fins mange tikz-bibliotek, det er nesten ingen grenser for hva
+% du kan lage med dette. Se http://www.texample.net/tikz/
+
+% 8. Egendefinerte kommandoer kan du legge inn slik:
+\newcommand{\tuple}[1]{\ensuremath{\langle #1\rangle}}
+\newcommand{\set}[1]{\ensuremath{\{#1\}}}
+\newcommand{\imp}{\ensuremath{\rightarrow}}
+\newcommand{\M}{\ensuremath{\mathcal{M}}}
+\newcommand{\AF}{edge from parent[draw=none]}
+\newcommand{\NODE}[1]{\{node \{\ensuremath{#1}\}\}}
+
+% 9. Egendefinert overskrift som passer obligformatet
+\usepackage[explicit]{titlesec}
+
+\titleformat{\section}{\normalfont\Large\bfseries}{}{0em}{#1\ \thesection}
+
+% http://en.wikibooks.org/wiki/LaTeX/Customizing_LaTeX#New_commands
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Selve innholdet:
+\begin{document}
+
+    % a. Lager en tittel på dokumentet.
+    \maketitle
+
+    % a. For å få bokstavnummerering på 'subsection's
+    \renewcommand{\thesubsection}{(\alph{subsection})}
+
+    \section{Oppgave} % for hver oppgave, lag en \section{Oppgave}
+
+    Tekst kan skrives inn direkte. Du trenger ikke   ta hensyn  til
+    hvor mye luft det   er   mellom ordene.
+
+    \subsection*{Formler}
+
+    Formler kan du blant skrive inn slik: $V=R*I$.
+
+    Fremheving av formler kan du gjøre som i \ref{eq:kirchoff}:
+
+    \begin{equation}
+        \sum_{k=0}^n V_k = 0
+        \label{eq:kirchoff}
+    \end{equation}
+
+    Legg merke
+    til at du må ha et mellomrom etter kommandoen - dette forsvinner ved
+    kompilering. Tvungent mellomrom skrives slik: \ .
+
+
+    \subsection*{Lister}
+
+    \begin{description}
+        \item[(a)] Det er flere måter å lage lister på.
+        \item[(b)] Denne listen er laget med {\tt description}.
+        \item[(c)] Du kan også bruke {\tt itemize} og {\tt enumerate}.
+    \end{description}
+
+    \subsection*{Tabeller}
+
+    For tabeller kan du bruke {\tt tabular}. Eksempel på en
+    sannhetsverditabell:
+
+    \begin{tabular}{ccc}
+        $P$ & $Q$ & $P\land Q$ \\
+        \hline
+        $1$ & $1$ & ${\color{red}1}$ \\
+        $1$ & $0$ & ${\color{red}0}$ \\
+        $0$ & $1$ & ${\color{red}0}$ \\
+        $0$ & $0$ & ${\color{red}0}$ \\
+    \end{tabular}
+
+    \subsection*{Kode}
+
+    \begin{minted}
+        [
+        frame=lines,
+        framesep=2mm,
+        baselinestretch=1.2,
+        bgcolor=LightGray,
+        fontsize=\footnotesize,
+        linenos
+        ]
+        {python}
+        from matplotlib import pyplot as plt
+
+        U=[0, 1, 2, 3]
+        I=[0, 0.02, 0.04, 0.06]
+
+        plt.xlabel("Voltage (V)")
+        plt.ylabel("Current (A)")
+        plt.plot(U,I)
+        plt.scatter(U,I)
+        plt.grid()
+        plt.savefig('./fig/plotPy.pdf')
+    \end{minted}
+
+    \subsection*{Bilder og figurer}
+
+    \begin{figure}[h]
+        \caption{I/V plot}
+        \centering
+        \includegraphics[width=.7\textwidth]{plotPy.pdf}
+        \label{fig:plot}
+    \end{figure}
+
+    Hvis det er tekst som beskriver en figur eller et bilde er det god skikk å referere til bilde. For eksempel:  ``I figur \ref{fig:plot} ser vi [\ldots].''
+
+\end{document}
